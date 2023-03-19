@@ -1,0 +1,18 @@
+.odd {
+    background-color: hsl(0, 59%, 73%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#the-second {
+    color: blue;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#anotherid {
+    background-color: hsl(120, 59%, 73%);
+    font-weight: bold;
+}
